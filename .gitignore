@@ -1,0 +1,37 @@
+# Ignore database
+db.sqlite3
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor configurations
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore environment configuration files
+.env
+
+# Ignore local Django settings (if any)
+local_settings.py
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Django database files
+db.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Django migrations (if not necessary for version control)
+pages/migrations/
+
+# Local environment files
+.env
